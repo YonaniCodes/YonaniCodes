@@ -11,7 +11,6 @@ I am a Software Engineering student at Bahir Dar University.
 [![Link Tree](https://img.shields.io/badge/linktree-43e660?logo=linktree&logoColor=white)](https://linktr.ee/YonaniCodes)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/yonas_awoke_yitay)
 [![Telegram](https://img.shields.io/badge/Telegram-%231DA1F2.svg?logo=Telegram&logoColor=white)](https://t.me/YonaYonani)
-[![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.com/sahilatahar)
 
 # 💻 Tech Stack:
 
