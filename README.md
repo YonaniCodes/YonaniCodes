@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&separator=%3C&lines=Hey+there!+I+am+Yonas+Awoke;%3CI+am+a+Software+Engineering+student+at+Bahir+Dar+University.)](https://git.io/typing-svg)
 
 - 🌱 Currently working on **Mobile App and Machine learning projects**
--  🌱 currently learnnig typeScript and next js
+-  🌱 currently learnnig next js
 - 🔍 Looking for chances to work together on  Web and mobile app development
 
 ## 🌐 Socials:
@@ -27,7 +27,7 @@
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
  ![Styled Components](https://img.shields.io/static/v1?label=&message=Styled%20Components&color=DB7093&style=for-the-badge)
 ![Styled Components](https://img.shields.io/badge/Styled%20Components-DB7093?style=flat-square&logo=styled-components&logoColor=white)
-
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 #### Backend:
 
 ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
