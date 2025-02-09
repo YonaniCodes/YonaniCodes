@@ -1,7 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&separator=%3C&lines=Hey+there!+I+am+Yonas+Awoke;%3CI+am+a+Software+Engineering+student+at+Bahir+Dar+University.)](https://git.io/typing-svg)
 
 - 🌱 Currently working on **Mobile App and Machine learning projects**
--  🌱 currently learnnig next js
 - 🔍 Looking for chances to work together on  Web and mobile app development
 
 ## 🌐 Socials:
